@@ -1,4 +1,3 @@
-# kokot-vita
 <!DOCTYPE html>
 <html lang="cs">
 <head>
@@ -70,31 +69,37 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Lightning_McQueen.png" alt="Lightning McQueen">
             <h3>Lightning McQueen</h3>
             <p>Rychlý závodník a hlavní hrdina filmů Auta.</p>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Lightning_McQueen.png" target="_blank">Zobrazit obrázek</a>
         </div>
         <div class="character">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Mater.png" alt="Mater">
             <h3>Mater</h3>
             <p>Nejlepší přítel Lightninga, který je roztomilý a trochu klidnější.</p>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/7/72/Mater.png" target="_blank">Zobrazit obrázek</a>
         </div>
         <div class="character">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Doc_Hudson.png" alt="Doc Hudson">
             <h3>Doc Hudson</h3>
             <p>Moudrý a zkušený závodník, který má velký vliv na McQueena.</p>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/7/7d/Doc_Hudson.png" target="_blank">Zobrazit obrázek</a>
         </div>
         <div class="character">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Sally_Carrera.png" alt="Sally Carrera">
             <h3>Sally Carrera</h3>
             <p>Stylová Porsche, která se stane McQueenovou láskou.</p>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/0/01/Sally_Carrera.png" target="_blank">Zobrazit obrázek</a>
         </div>
         <div class="character">
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Chick_Hicks.png" alt="Chick Hicks">
             <h3>Chick Hicks</h3>
             <p>Závodník, který se snaží porazit McQueena za každou cenu.</p>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/f/fd/Chick_Hicks.png" target="_blank">Zobrazit obrázek</a>
         </div>
         <div class="character">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Fillmore_Cars.png" alt="Fillmore">
             <h3>Fillmore</h3>
             <p>Vysoce ekologický mikrobus, který se drží filozofie míru a lásky.</p>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/a/aa/Fillmore_Cars.png" target="_blank">Zobrazit obrázek</a>
         </div>
     </div>
 
